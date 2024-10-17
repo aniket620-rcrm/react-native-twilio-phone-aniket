@@ -2,7 +2,7 @@
   xmlns:tools="http://schemas.android.com/tools"
   package="com.example.reactnativetwiliophone">
 
-  <uses-permission android:name="android.permission.INTERNET" />
+  <!-- <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission
     android:name="android.permission.BIND_TELECOM_CONNECTION_SERVICE"
     tools:ignore="ProtectedPermissions" />
@@ -38,6 +38,6 @@
         <action android:name="android.telecom.ConnectionService" />
       </intent-filter>
     </service>
-  </application>
+  </application> -->
 
 </manifest>
